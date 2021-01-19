@@ -23,7 +23,7 @@ const server = new ApolloServer({
 });
 
 //apply apollo server with express app
-server.applyMiddleware({app});
+server.applyMiddleware({ app });
 
 //middleware parsing
 app.use(express.urlencoded({ extended: true }));
