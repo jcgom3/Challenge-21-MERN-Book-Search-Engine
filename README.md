@@ -24,11 +24,12 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 [![Book Search](images/BookSearchDemo.png)]
 
 
-# Description
-This app allows to create and use 
+
 
 # Table of Contents 
-* [Description](#Description)
+* [Summary](#Summary)
+* [Tools Used](#Tools)
+* [Snapshot](#Snapshot)
 * [Installation & Database SetUp](#Installation)
 * [Heroku](#Heroku)
 * [License](#license)
